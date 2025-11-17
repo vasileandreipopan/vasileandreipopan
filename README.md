@@ -3,11 +3,7 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <h1 align="left">Vasile Andrei Popan 🐉</h1>
-
 ###
 
 <div align="center">
